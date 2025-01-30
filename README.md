@@ -59,13 +59,14 @@ Flutter를 선택한 이유는 다음과 같습니다:
 - [x] 최대 100개의 포트 추가 기능 구현
 
 ### 시나리오 코딩이전의 셋팅
-- [ ] 와이파이 통신을 위한 와이파이 정보 등록<br>
-- [ ] 현재까지 입력한 장비 및 포트 정보의 변환<br>
-- [ ] 변환하기 탭에서의 장비 인식 여부 지원
+- [X] 와이파이 통신을 위한 와이파이 정보 등록<br>
+- [X] 현재까지 입력한 장비 및 포트 정보의 변환<br>
+- [X] 변환하기 탭에서의 장비 인식 여부 지원
 ### 시나리오 코딩
 - [ ] 시나리오를 기반으로 장비와 포트를 제어하는 로직 구현
 
 
   ![장비홈](https://github.com/user-attachments/assets/dc70c85f-75df-4766-a7ee-d07aca38515f)<br>
   ![포트 설정 홈](https://github.com/user-attachments/assets/8837d3aa-a359-4de1-b949-e576886d60dc)
+![장비 인식 결과](https://github.com/user-attachments/assets/0e1361bb-df39-4484-822a-9e766b44d0b0)
 
